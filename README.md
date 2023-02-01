@@ -6,7 +6,7 @@
 <li> Linguagens: HTML, CSS e JavaScript</li>
 <li>Projeto para Notebook e Celulares</li>
 
-<a href='https://melo-luisa.github.io/Mentalista/'>🌐 Link WEB</a> | <a href='https://github.com/Melo-Luisa/Conversor_moeda_digital'> 📃 Link repositório</a>
+<a href='https://melo-luisa.github.io/Mentalista/'>🌐 Link WEB</a> | <a href='https://github.com/Melo-Luisa/Mentalista'> 📃 Link repositório</a>
 <h3>Situação:</h3>
 <li>Completo</li>
 
