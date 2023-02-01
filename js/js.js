@@ -12,7 +12,7 @@ let button = document.querySelector('#button')
     }
 }*/
 button.addEventListener('click', ()=>{
-    console.log(numero)
+
     result.style.padding = '20px'
     if(chute.value == numero){
         result.innerHTML = 'Acertou!'
